@@ -1,0 +1,22 @@
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.exe
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.deps.json
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.json
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.dev.json
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.pdb
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfo.cs
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\Noah\source\repos\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.pdb
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.exe
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.deps.json
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.json
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.dev.json
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.pdb
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfo.cs
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\Noah\Desktop\C# Projects\ConverterProject\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.pdb
